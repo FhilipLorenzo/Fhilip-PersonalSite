@@ -1,0 +1,113 @@
+*{
+	margin:  0;
+	padding: 0;
+}
+
+
+nav{
+	width: 100%;
+	height: 100px;
+	background-color: cadetblue;
+	line-height: 100%;
+}
+
+
+ul{
+
+}
+
+ul li{
+	display: block;
+list-style: none;
+display: inline-block;
+float: right;
+}
+
+
+ul li a{
+text-decoration: none;
+font-size: 20px;
+font-family: arial;
+color: #1e1e1e;
+padding: 0 20px;
+}
+
+ul li a:hover{
+	color: red;
+}
+
+
+body{
+	background-color: skyblue;
+}
+
+
+
+h1{
+	color: red;
+	font-size: 90px;
+	text-align: center;
+}
+ul{
+	align-content: center;
+}
+/*
+img{
+	background-color:  red;
+}
+
+*/
+
+.Fhilip {
+	background-color:  steelblue;
+}
+
+#heading1{
+	color: purple;
+	text-align: center;
+	font-size: 30px;	
+}
+#ul1{
+	align-content: center;
+}
+#heading2{
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+}
+#heading3{
+color: brown;
+	text-align: center;
+	font-size: 30px;
+}
+#p1{
+	font-size: 20px;
+}
+#p2{
+	font-size: 20px;
+}
+#p3{
+	font-size: 20px;
+}
+#p4{
+	font-size: 25px;
+}
+
+.fhilip1{
+	align-content: left;
+	size: 20px;
+}
+
+#click1{
+	color: blue;
+	text-align: center;
+	font-size: 30px;
+	background-color: skyblue;
+}
+
+#button1{
+	color: blue;
+	align-content: center;
+	font-size: 30px;
+	background-color: skyblue;
+}
